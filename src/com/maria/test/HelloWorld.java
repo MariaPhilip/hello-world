@@ -8,6 +8,7 @@ public class HelloWorld {
 		Hello2 h=new Hello2(4,5);
 		
 
+		System.out.println("Stash");
 	}
 
 }
