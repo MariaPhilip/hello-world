@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) 
 	{
-		System.out.print("Hello Worlds");
+		System.out.print("Hello World");
 		Hello2 h=new Hello2(4,5);
 		
 
